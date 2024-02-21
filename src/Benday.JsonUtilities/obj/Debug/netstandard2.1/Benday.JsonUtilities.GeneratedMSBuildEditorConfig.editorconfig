@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Benday.JsonUtilities
+build_property.ProjectDir = C:\BISTEC KOSHI\Files\Azure DevOps\07\demos\after\yaml-pipeline-demo\Benday.YamlDemoApp\src\Benday.JsonUtilities\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
